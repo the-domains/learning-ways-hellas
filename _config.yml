@@ -1,4 +1,3 @@
-layout_spectrum: 0.9113839506171644
 typography_spectrum: 0.22581002721562982
 color:
   brandStrength: 0.4168229333590716
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.9113839506171644
 name: Learning Ways Hellas
+description: ' Blog'

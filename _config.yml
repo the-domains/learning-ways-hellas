@@ -11,6 +11,9 @@ color:
     - '#FFE11A'
     - '#FD7400'
 layout_spectrum: 0.9113839506171644
-name: Learning Ways Hellas
+author:
+  url: 'http://tomatishellas.org'
+  email: a
+name: Aikaterina's blog
 title: LWH-TH online
 description: ' Blog'

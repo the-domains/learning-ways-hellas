@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T11:40:59.029Z'
+datePublished: '2016-08-24T12:15:29.386Z'
 sourcePath: _posts/2016-08-23-welcome-to-nginx.md
 inFeed: true
 isBasedOnUrl: 'http://tomatishellas.org'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T11:40:58.167Z'
+dateModified: '2016-08-24T12:15:29.223Z'
 title: ''
 app_links: []
 publisher:

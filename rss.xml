@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[paideia online]]></title>
+        <description><![CDATA[paideia online]]></description>
+        <link>http://tomatishellas.org/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Aug 2016 11:41:00 GMT</lastBuildDate>
+        <atom:link href="http://tomatishellas.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to nginx!]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/999d5633-d38f-4d88-9cea-188c70fa3579.jpg">]]></description>
+            <link>http://tomatishellas.org</link>
+            <guid isPermaLink="false">f8dbc221-79e2-4638-b24b-091e15ec167c</guid>
+            <pubDate>Wed, 24 Aug 2016 11:40:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

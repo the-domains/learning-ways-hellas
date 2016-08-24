@@ -1,7 +1,9 @@
 ---
-datePublished: '2016-08-23T23:13:29.904Z'
+datePublished: '2016-08-24T11:40:59.029Z'
+sourcePath: _posts/2016-08-23-welcome-to-nginx.md
 inFeed: true
 isBasedOnUrl: 'http://tomatishellas.org'
+hasPage: false
 keywords:
   - nginx
   - configuration
@@ -16,18 +18,14 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-23T23:13:07.558Z'
-title: Welcome to nginx!
+dateModified: '2016-08-24T11:40:58.167Z'
+title: ''
 app_links: []
 publisher:
-  url: 'http://tomatishellas.org'
-  name: Tomatishellas
-  favicon: null
-  domain: tomatishellas.org
+  name: Learning Ways Hellas
 description: διαδρομές μάθησης Ελλάς
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-23-welcome-to-nginx.md
 _context: 'http://schema.org'
 _type: MediaObject
 

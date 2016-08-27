@@ -4,7 +4,7 @@
         <description><![CDATA[Διαδρομές  Μάθησης  Ελλάς]]></description>
         <link>http://tomatishellas.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 15:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 15:05:09 GMT</lastBuildDate>
         <atom:link href="http://tomatishellas.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to nginx!]]></title>
@@ -12,13 +12,6 @@
             <link>http://tomatishellas.org</link>
             <guid isPermaLink="false">0a03aa02-07d1-417e-a3e9-f40915eef98a</guid>
             <pubDate>Thu, 25 Aug 2016 12:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to nginx!]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/999d5633-d38f-4d88-9cea-188c70fa3579.jpg">]]></description>
-            <link>http://tomatishellas.org</link>
-            <guid isPermaLink="false">fe3e3fd1-822b-4a81-8855-1d6a3824bfcf</guid>
-            <pubDate>Wed, 24 Aug 2016 12:15:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

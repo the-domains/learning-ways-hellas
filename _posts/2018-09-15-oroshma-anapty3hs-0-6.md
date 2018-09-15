@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ——————————————-
-dateModified: '2018-09-15T14:11:17.942Z'
-datePublished: '2018-09-15T14:11:18.796Z'
-title: Ορόσημα Ανάπτυξης 0-6 χρόνων
+dateModified: '2018-09-15T14:11:40.306Z'
+datePublished: '2018-09-15T14:11:40.994Z'
+title: Ορόσημα Ανάπτυξης 0-6
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: oroshma-anapty3hs-0-6-xronwn/index.html
 _type: Blurb
 
 ---
-# Ορόσημα Ανάπτυξης 0-6 χρόνων
+# Ορόσημα Ανάπτυξης 0-6
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d12ad2-33f9-47f3-9469-0365eb734470.jpg)
 
 ### Γ**λωσσική ανάπτυξη**

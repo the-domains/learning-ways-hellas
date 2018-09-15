@@ -1,25 +1,25 @@
 ---
 inFeed: true
-description: 'Γλωσσική ανάπτυξη '
-dateModified: '2018-09-15T13:33:09.754Z'
-datePublished: '2018-09-15T13:33:10.818Z'
+description: '0-2 μηνών : Θηλάζει'
+dateModified: '2018-09-15T13:35:13.536Z'
+datePublished: '2018-09-15T13:35:14.221Z'
 title: Ορόσημα Ανάπτυξης 0-6
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-09-15-oroshma-anapty3hs-0-6.md
 starred: false
 datePublishedOriginal: '2018-09-15T13:33:07.610Z'
-sourcePath: _posts/2018-09-15-oroshma-anapty3hs-0-6.md
 _type: Blurb
 
 ---
+# Ορόσημα Ανάπτυξης 0-6
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d12ad2-33f9-47f3-9469-0365eb734470.jpg)
 
-# Ορόσημα Ανάπτυξης 0-6
+### Γ**λωσσική ανάπτυξη**
 
-Γ**λωσσική ανάπτυξη **
+**0-2 μηνών : **Θηλάζει
 
-**0-2 μηνών : **Θηλάζει.  
 **2 - 3 μηνών:**Αναγνωρίζει το μπιμπερό. Συνδέει το φαγητό με συγκεκριμένους ήχους.  
 Ανταποκρίνεται στο κάλεσμα αυτού που το φροντίζει προσπαθώντας να σηκώσει τα χέρια του.
 

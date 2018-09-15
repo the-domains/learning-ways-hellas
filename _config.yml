@@ -1,24 +1,100 @@
-typography_spectrum: 0.22581002721562982
+typography_spectrum: 0.08855340174224118
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.4168229333590716
-  lightness: 0.12987349391914904
-  saturation: 0.6266700867563486
-  rhythmicContrast: 0.7733620330691338
+  brandStrength: 0.006056762669272352
+  lightness: 0.39014833154820716
+  saturation: 0.9993754429697511
+  rhythmicContrast: 0.14715939600094416
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.9113839506171644
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+github: true
+layout_spectrum: 0.038434805124629254
 author:
   url: 'http://tomatishellas.org'
-  email: akalostypi@gmail.com
-  name: Aikaterina's blog
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39260256-254d-4d98-a01b-658c64c54221.jpg
-name: aikaterina's blog
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5649bf25-147d-4b20-b545-78253c3cddff.jpg
+  email: kalostypi@tomatishellas.gr
+  name: ''
+logo: null
+name: Με λίγα λόγια ...
+navigation:
+  - name: Ας παίξουμε ... λοιπόν!
+    id: 2574db03-f05f-4491-865a-93ca903a393f
+    type: content
+  - name: Η κατανόηση της Ανάγνωσης
+    id: 3171a2c5-2c19-430e-b210-d0e2b7409edf
+    type: content
+  - name: Η Πορεία των Παιδιών προς τον Γραμματισμό
+    id: 5d5dc582-3f83-4cd9-beec-a5b36e1c1019
+    type: content
+  - name: Γονείς και Γλωσσική Ανάπτυξη των Παιδιών
+    id: 3d9e87e7-2e03-4dc1-be2b-458ecbb08aa7
+    type: content
+  - name: Τι είναι ο αυτισμός;
+    id: 9a8439cb-d97f-4591-a67e-efc4ae13f1e6
+    type: content
+  - name: Ορόσημα Ανάπτυξης  0-6
+    id: 54aeec0c-39a9-4237-a4d6-c736850ea854
+    type: content
+favicon: null
 title: "Διαδρομές \_Μάθησης \_Ελλάς"
-description: "aikaterina's \_blog"
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b36d8df-5582-4fd3-81d0-e08c230f6edb.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b36d8df-5582-4fd3-81d0-e08c230f6edb.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92f31ea-f221-49bc-a76a-b21643aff85f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92f31ea-f221-49bc-a76a-b21643aff85f.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: "aikaterina's \_blog: Με λίγα λόγια ..."
+purpose:
+  - type: contact
+    url: 'tel:2299112171'
+    label: Call +302299112171
+  - type: contact
+    url: 'mailto:kalostypi@tomatishellas.gr'
+    label: Contact me

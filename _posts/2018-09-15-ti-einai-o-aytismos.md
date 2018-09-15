@@ -5,16 +5,18 @@ description: >-
   ετών, όταν εμφανίζονται και τα πρώτα συμπτώματα. Τα συμπτώματα του αυτισμού
   περιλαμβάνουν τρεις βασικούς τομείς της ανάπτυξης και επηρεάζουν την ικανότητα
   ενός παιδιού να :
-dateModified: '2018-09-15T13:54:27.004Z'
-datePublished: '2018-09-15T13:54:27.843Z'
+dateModified: '2018-09-15T13:58:28.764Z'
+datePublished: '2018-09-15T13:58:31.779Z'
 title: Τι είναι ο Αυτισμός1;
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-09-15-ti-einai-o-aytismos.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-15T13:50:31.531Z'
-_type: Blurb
+url: ti-einai-o-aytismos1/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db153a16-e919-4f00-bfdc-880b70baba94.jpg)

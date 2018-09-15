@@ -39,6 +39,9 @@ navigation:
   - name: Τι είναι ο Αυτισμός;1
     id: c9a4159b-15e7-4074-8f26-ec585e0699f7
     type: content
+  - name: Τι είναι ο Αυτισμός;2
+    id: 9a8439cb-d97f-4591-a67e-efc4ae13f1e6
+    type: content
 favicon: null
 title: "Διαδρομές \_Μάθησης \_Ελλάς"
 content:

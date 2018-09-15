@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Η διάγνωση είναι εφικτή κατά την πρώιμη νηπιακή ηλικία, μεταξύ των δύο ή τριών
   ετών, όταν εμφανίζονται και τα πρώτα συμπτώματα. Τα συμπτώματα του αυτισμού
   περιλαμβάνουν τρεις βασικούς τομείς της ανάπτυξης και επηρεάζουν την ικανότητα
   ενός παιδιού να :
-dateModified: '2018-09-15T13:58:28.764Z'
-datePublished: '2018-09-15T13:58:31.779Z'
+dateModified: '2018-09-15T14:00:00.949Z'
+datePublished: '2018-09-15T14:00:01.520Z'
 title: Τι είναι ο Αυτισμός1;
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-15T13:50:31.531Z'
 url: ti-einai-o-aytismos1/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db153a16-e919-4f00-bfdc-880b70baba94.jpg)

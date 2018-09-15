@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: '0-2 μηνών : Θηλάζει'
-dateModified: '2018-09-15T14:06:38.535Z'
-datePublished: '2018-09-15T14:06:39.171Z'
+dateModified: '2018-09-15T14:08:27.705Z'
+datePublished: '2018-09-15T14:08:28.987Z'
 title: Ορόσημα Ανάπτυξης 0-6 χρόνων
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-15T14:05:35.980Z'
 url: oroshma-anapty3hs-0-6-xronwn/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Ορόσημα Ανάπτυξης 0-6 χρόνων

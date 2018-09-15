@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Ο αυτισμός είναι μια νευροβιολογική, αναπτυξιακή διαταραχή. Η διάγνωση είναι
   εφικτή κατά την πρώιμη νηπιακή ηλικία, μεταξύ των δύο ή τριών ετών, όταν
   εμφανίζονται και τα πρώτα συμπτώματα. Τα συμπτώματα του αυτισμού περιλαμβάνουν
   τρεις βασικούς τομείς της ανάπτυξης και επηρεάζουν την ικανότητα ενός παιδιού
   να :
-dateModified: '2018-09-15T13:59:17.991Z'
-datePublished: '2018-09-15T13:59:19.451Z'
+dateModified: '2018-09-15T14:00:31.008Z'
+datePublished: '2018-09-15T14:00:31.925Z'
 title: Τι είναι ο αυτισμός;2
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-14T22:18:49.679Z'
 url: ti-einai-o-aytismos/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e95516e5-741c-4314-8c18-86b4f600686c.jpg)

@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: —————
-dateModified: '2018-09-16T19:45:22.813Z'
-datePublished: '2018-09-16T19:45:23.664Z'
+description: '*'
+dateModified: '2018-09-16T19:45:57.656Z'
+datePublished: '2018-09-16T19:45:58.311Z'
 title: Ορόσημα Ανάπτυξης 0-6
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Blurb
 
 ### Γλωσσική Ανάπτυξη
 
----------------
+\*
 
 **0 - 2 μηνών : **Θηλάζει.
 

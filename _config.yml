@@ -1,5 +1,6 @@
-layout_spectrum: 0.032072558374061144
 typography_spectrum: 0.04989139793293163
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3998802628673355
   lightness: 0.13059555235346504
@@ -11,9 +12,8 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.032072558374061144
 author:
   url: 'http://tomatishellas.org'
   email: kalostypi@tomatishellas.gr
@@ -38,6 +38,9 @@ navigation:
     type: content
   - name: Ορόσημα Ανάπτυξης 0-6 / Γλωσσική Ανάπτυξη
     id: 54aeec0c-39a9-4237-a4d6-c736850ea854
+    type: content
+  - name: Εγκέφαλος και Παιδική Ηλικία
+    id: 786d77c3-2c75-4e51-b1d8-d68e953bfeca
     type: content
 favicon: null
 title: "Διαδρομές \_Μάθησης \_Ελλάς"

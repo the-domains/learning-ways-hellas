@@ -1,15 +1,19 @@
 ---
 inFeed: true
-description: "Τα πρώτα χρόνια της παιδικής ηλικίας -πρώιμη και μέση παιδική ηλικία- είναι μια περίοδος ταχείας αλλαγής του εγκεφάλου, κατά τη διάρκεια της οποίας, διαμορφώνεται και βελτιώνεται ένα σύνθετο δίκτυο\_νευρικών συνδέσεων\_στον εγκέφαλο,  μέσω της\_συναπτογένεσης\_, του\_κλαδέματος\_και της\_μυελίνωσης\_."
-dateModified: '2018-09-21T09:38:16.135Z'
-datePublished: '2018-09-21T09:39:10.407Z'
+description: >-
+  Τα πρώτα χρόνια της παιδικής ηλικίας -πρώιμη και μέση παιδική ηλικία- είναι
+  μια περίοδος ταχείας αλλαγής του εγκεφάλου, κατά τη διάρκεια της οποίας,
+  διαμορφώνεται και βελτιώνεται ένα σύνθετο δίκτυο νευρικών συνδέσεων στον
+  εγκέφαλο, μέσω της συναπτογένεσης , του κλαδέματος και της μυελίνωσης .
+dateModified: '2018-09-21T09:39:11.204Z'
+datePublished: '2018-09-21T09:39:11.783Z'
 title: Πρώιμη και Μέση παιδική ηλικία
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-09-21T09:39:10.407Z'
+datePublishedOriginal: '2018-09-21T09:38:55.509Z'
 sourcePath: _posts/2018-09-21-prwimh-kai-mesh-paidikh-hlikia.md
 url: prwimh-kai-mesh-paidikh-hlikia/index.html
 _type: Article
@@ -35,7 +39,7 @@ The early childhood years are a period of rapid change in the brain. During earl
 
 The process of forming connections is biologically driven, but experiences also promote synapse formation. The brain produces many more synapses than it will ultimately use. Researchers describe this process as **[synaptic overproduction][0]**. This rapid synapse formation continues throughout early childhood.
 
-The process of myelination also continues during early childhood and is the major cause of the increase in a child's brain size.  In the first four years of life, the brain increases to 80% of its adult weight of 2.6 - 3.3 pounds (1200-1500 grams).
+The process of myelination also continues during early childhood and is the major cause of the increase in a child's brain size. In the first four years of life, the brain increases to 80% of its adult weight of 2.6 - 3.3 pounds (1200-1500 grams).
 
 Pruning is a key process that shapes the brains of young children. Synaptic overproduction causes synapses to develop extremely rapidly. The pruning process refines these connections based on experience. Connections used regularly become stronger and more complex. Connections not used are considered non-essential, and the brain eventually prunes them away to increase efficiency.
 

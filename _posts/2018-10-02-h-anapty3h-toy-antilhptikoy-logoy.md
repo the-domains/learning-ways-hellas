@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Γέννηση:'
-dateModified: '2018-10-02T22:19:00.049Z'
-datePublished: '2018-10-02T22:19:00.754Z'
+dateModified: '2018-10-02T22:20:20.435Z'
+datePublished: '2018-10-02T22:20:21.185Z'
 title: Η Ανάπτυξη του Αντιληπτικού Λόγου
 author: []
 publisher: {}
@@ -15,6 +15,8 @@ _type: Blurb
 ---
 # Η Ανάπτυξη του Αντιληπτικού Λόγου
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/459570bd-416e-4de8-bba1-c7d1d094fc93.jpg)
+
+### Από 0 - 7
 
 **Γέννηση:**
 

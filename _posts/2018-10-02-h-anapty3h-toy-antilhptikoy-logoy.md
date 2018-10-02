@@ -1,19 +1,20 @@
 ---
 inFeed: true
 description: 'Γέννηση:'
-dateModified: '2018-10-02T22:16:48.055Z'
-datePublished: '2018-10-02T22:16:48.933Z'
+dateModified: '2018-10-02T22:19:00.049Z'
+datePublished: '2018-10-02T22:19:00.754Z'
 title: Η Ανάπτυξη του Αντιληπτικού Λόγου
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-10-02-h-anapty3h-toy-antilhptikoy-logoy.md
 starred: false
 datePublishedOriginal: '2018-10-02T22:16:48.933Z'
-sourcePath: _posts/2018-10-02-h-anapty3h-toy-antilhptikoy-logoy.md
 _type: Blurb
 
 ---
 # Η Ανάπτυξη του Αντιληπτικού Λόγου
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/459570bd-416e-4de8-bba1-c7d1d094fc93.jpg)
 
 **Γέννηση:**
 

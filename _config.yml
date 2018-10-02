@@ -42,6 +42,9 @@ navigation:
   - name: Εγκέφαλος και Παιδική Ηλικία
     id: 786d77c3-2c75-4e51-b1d8-d68e953bfeca
     type: content
+  - name: Αντιληπτικός Λόγος (Ορόσημα Ανάπτυξης)
+    id: 1be1f0e4-562d-4467-857f-bf79f816ff72
+    type: content
 favicon: null
 title: "Διαδρομές \_Μάθησης \_Ελλάς"
 content:

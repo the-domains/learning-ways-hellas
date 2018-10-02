@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Γέννηση: Η ανάπτυξη του λόγου και της ακοής τους εξελίσσονται με τον καιρό /
   Έχουν επίγνωση των ήχων και μπορούν να ξυπνήσουν από αυτούς.
-dateModified: '2018-10-02T22:30:41.222Z'
-datePublished: '2018-10-02T22:30:41.989Z'
+dateModified: '2018-10-02T22:37:16.219Z'
+datePublished: '2018-10-02T22:37:16.926Z'
 title: Ορόσημα Ανάπτυξης του Αντιληπτικού Λόγου
 author: []
 publisher: {}
@@ -18,7 +18,7 @@ _type: Blurb
 
 ---
 # Ορόσημα Ανάπτυξης του Αντιληπτικού Λόγου
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/459570bd-416e-4de8-bba1-c7d1d094fc93.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e17445b6-5f67-4276-a030-3f176229efc9.jpg)
 
 ### Από 0 - 7 χρόνων
 
